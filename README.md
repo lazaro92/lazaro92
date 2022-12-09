@@ -5,6 +5,9 @@
 
 - 🔭 I’m currently working on [TechReads](https://techreads.site)
 - 🌱 I’m currently learning SEO and web marketing
+- 💬 Ask me about web programming, server programming, algorithms, general computer science...
+- 📝 I sometimes write articles on https://lazaro92.github.io
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
