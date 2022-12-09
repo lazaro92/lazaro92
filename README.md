@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/alazaro92" target="blank"><img src="https://img.shields.io/twitter/follow/alazaro92?logo=twitter&style=for-the-badge" alt="alazaro92" /></a> </p>
 
 - 🔭 I’m currently working on [TechReads](https://techreads.site)
+- 🌱 I’m currently learning SEO and web marketing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
