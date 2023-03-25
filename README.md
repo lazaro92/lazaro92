@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Albert Lázaro</h1>
 <h3 align="center">A passionate fullstack engineer from Spain</h3>
 
-<p align="left"> <a href="https://twitter.com/alazaro92" target="blank"><img src="https://img.shields.io/twitter/follow/alazaro92?logo=twitter&style=for-the-badge" alt="alazaro92" /></a> </p>
-
-- 🔭 I’m currently working on [TechReads](https://techreads.site) and other stuff
-- 🌱 I’m currently learning SEO and web marketing
+- 🔭 I have worked on [TechReads](https://techreads.site) and other stuff
+- 🌱 I’m currently doing some Katas to improve my portfolio
 - 💬 Ask me about web programming, server configuration, algorithms, general computer science...
 - 📝 I rarely write articles on https://lazaro92.github.io
 
