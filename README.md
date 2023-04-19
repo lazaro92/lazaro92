@@ -6,7 +6,7 @@ Hi 👋, I'm Albert Lázaro de Lara - A passionate fullstack engineer from Spain
 - 💬 Ask me about web programming, server configuration, algorithms, general computer science...
 - 📝 I rarely write articles on https://lazaro92.github.io
 
-If you are a recruiter and want to see some interesting repositories to see my skills, I recommend you to filter my repositories with the keywords `katas` and `interview`. I will be adding more exercises on my account.
+If you are a recruiter and want to see some interesting repositories to see my skills, I recommend you to filter my repositories with the keywords `katas` and/or `interview`. I will be adding more exercises on my account.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
