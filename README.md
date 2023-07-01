@@ -10,7 +10,7 @@ If you are a recruiter and want to see some interesting repositories to see my s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alazaro92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alazaro92" height="30" width="40" /></a>
+<a href="https://twitter.com/aLazaro_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alazaro92" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/albertlazarolara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertlazarolara" height="30" width="40" /></a>
 <a href="https://instagram.com/alazaro92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alazaro92" height="30" width="40" /></a>
 </p>
