@@ -1,6 +1,6 @@
 Hi 👋, I'm Albert Lázaro de Lara - A passionate fullstack engineer from Spain
 
-- 🔭 I have worked on [TechReads](https://techreads.site) and other stuff
+- 🔭 I have worked on TechReads but failed. Now I'm working in [RemoteES](https://remote-es.com)
 - 🎮 I'm trying to make a Linux port of MS-DOS game **Crusher** [(Video)](https://www.youtube.com/watch?v=GukzMhCx9B0) With C++ and SFML library
 - 🌱 I’m currently doing some Katas to improve my portfolio
 - 💬 Ask me about web programming, server configuration, algorithms, general computer science...
